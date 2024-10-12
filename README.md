@@ -172,6 +172,3 @@ Once your app is ready, you can deploy it to platforms like Vercel, which is opt
       ```
 
    3. This will generate a `out` folder. You can push this folder to the `gh-pages` branch of your GitHub repository to host it using GitHub Pages.
-
-### You Are Ready!
-You now have a basic Next.js app running and can deploy it either to GitHub Pages or platforms like Vercel.
