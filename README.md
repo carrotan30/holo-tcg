@@ -6,6 +6,12 @@ A web app for simulating the Hololive Trading Card Game
 - Card Elements
 - Damage Tracker Functionality
 
+## Versions
+| Program  | Version |
+| -------- | ------- |
+| node.js  | 20.18.0 |
+|   npm    | 10.9.0  |
+
 ## Installation Guide
 ### Step-by-Step Guide to Create a Next.js React App
 
