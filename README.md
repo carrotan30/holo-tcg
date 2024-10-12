@@ -2,4 +2,6 @@
 A web app for simulating the Hololive Trading Card Game
 
 ## Currently working on:
-- Damage Tracker
+- Stage Interface
+- Card Elements
+- Damage Tracker Functionality
