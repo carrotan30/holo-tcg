@@ -12,7 +12,7 @@ A web app for simulating the Hololive Trading Card Game
 | node.js  | 20.18.0 |
 |   npm    | 10.9.0  |
 
-## Installation Guide
+## Installation Guide (by ChatGPT)
 ### Step-by-Step Guide to Create a Next.js React App
 
 #### 1. **Set Up Node.js and npm**
